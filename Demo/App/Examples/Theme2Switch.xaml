@@ -52,7 +52,7 @@
                     <Image Aspect="AspectFit"
                            HeightRequest="40"
                            HorizontalOptions="Center"
-                           Source=""
+                           Source="moon_surface"
                            VerticalOptions="Center" />
                 </FlexLayout>
             </StackLayout>
